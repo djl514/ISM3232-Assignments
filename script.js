@@ -1,4 +1,4 @@
 // First JS file
 
-console.log("Hello World!")
+console.log("Hello, World!")
 
